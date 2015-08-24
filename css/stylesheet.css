@@ -1,0 +1,1022 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	background-color: white;
+	font-family: 'Roboto', sans-serif;
+	/* font, colors */
+}
+
+#wrapper {
+	min-height: 100%;
+	position: relative;
+}
+#innercontainer {
+	padding-bottom: 200px;
+}
+#nav {
+	/*background-color: rgba(255, 255, 255, 0.95);*/
+	background-color: #18496e;
+	opacity: 0.95;
+	/*background-color: white;*/
+	width: 100%;
+	padding-top: 1%;
+	margin-top: -1%;
+	margin-left: -1%;
+	padding-right: 1%;
+	z-index: 10;
+}
+#nav ul {
+	width: 100%;
+	margin-top: 1.5%;
+	/*margin-left: 3%;*/
+}
+#nav ul li {
+	list-style-type: none;
+	webkit-transition: display 1s;
+	transition: display 1s;
+	/*float: left;*/
+	/*width: 10%;*/
+	/*margin-right: 2%;*/
+}
+#nav img {
+	width: 30%;
+	margin-top: -1%;
+}
+#nav #picturelink {
+	margin-top: -1%;
+}
+#nonindexheaderpic {
+	width: 100%!important;
+}
+#nav ul li ul {
+	display: none;
+	margin-left: -30%;
+}
+#nav ul li a:hover {
+	border-bottom: 1px solid #ca564e;
+}
+#nav ul li:hover ul {
+	display: block;
+	width: 100%;
+	padding-top: 5%;
+}
+#nav ul li:hover ul li {
+	width: 200px;
+	text-align: left;
+	padding-top: 1%;
+}
+#nav ul li ul li a:hover {
+	border-bottom: none;
+	color: #ca564e;
+}
+#nav .single a:hover {
+	color: #ca564e;
+	border-bottom: none;
+}
+#nav a:link, a:visited {
+	padding: 2%;
+	text-decoration: none;
+	color: white;
+}
+.empty {
+	visibility: hidden;
+}
+#homebackground {
+	width: 101%;
+	margin-left: -1%;
+	/*margin-top: -10%;*/
+	/*z-index: -1;*/
+	position: relative;
+	height: 500px;
+	/*background: url(../img/Spices.jpg) no-repeat;
+    background-size: 100%;*/
+}
+#homebackground img {
+	width: 100%;
+	/*position: absolute;*/
+	margin-top: -8%;
+	height: 500px;
+}
+#homebackground h1 {
+	/*color: white;*/
+	color: #D8D7D7;
+	mix-blend-mode: screen;
+	text-align: center;
+	margin-top: -280px;
+	font-size: 100px;
+	/*text-shadow:
+   -1px -1px 0 #ca564e,  
+    1px -1px 0 #ca564e,
+    -1px 1px 0 #ca564e,
+    1px 1px 0 #ca564e;*/
+}
+
+#mission {
+	margin-top: -5%;
+	padding-bottom: 2%;
+}
+#mission p {
+	font-size: 1.3em;
+}
+.color {
+	color: #afcd63;
+	/*color: #ca564e;*/
+}
+
+#guidingprinciples {
+	padding-top: 1%;
+	width: 101%;
+	background: url(../img/Tomato.jpg) no-repeat;
+	background-size: 100%;
+    /*-webkit-filter: sepia(100%);*/
+	/*-webkit-filter: blur(5px);
+    filter: blur(5px);*/
+	margin-left: -1%;
+}
+
+#guidingprinciples h2 {
+	text-align: center;
+	color: black;
+	padding-bottom: 2%;
+}
+#guidingprinciples p {
+	color: black;
+}
+#guidingprinciples {
+	text-align: center;
+}
+
+
+.fadeInBlock {
+	opacity: 0;
+}
+
+#statement {
+	background-color: #afcd63;
+	/*padding-right: 1%;*/
+	margin-left: -1%;
+	padding-left: 1%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	margin-bottom: -1%;
+}
+#statement p {
+	margin-left: 24%;
+	margin-right: 24%;
+	color: white;
+	font-size: 1.1em;
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+
+.emphasis {
+	font-size: 1.2em;
+	color: #ca564e;
+	font-style: italic;
+}
+
+
+
+#footer {
+	height: 200px;
+	padding-right: 1%;
+	margin-left: -1%;
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	background-color: #18496e;
+	color: white;
+	margin-bottom: -1%;
+}
+#footer div {
+	width: 30%;
+	height: 80%;
+	float: left;
+}
+#footerfirst {
+	margin-top: 1%;
+	margin-left: 4%;
+}
+#footersecond {
+	margin-top: 2%;
+}
+#footerthird p {
+	margin-top: 9%;
+}
+#footerfourth {
+	float: right;    
+	width: 100%;
+    text-align: center;
+    margin-top: -3%;
+}
+#footerfourth img {
+	width: 2%;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+#footertext {
+	margin-right: 1%;
+	color: #ca564e;
+}
+#footer a {
+	color: white;
+	text-decoration: none;
+}
+#footer a:hover {
+	color: #ca564e;
+}
+#footerthird a {
+	color: #ca564e;
+}
+#footerthird a:hover {
+	color: white;
+}
+
+#ourstorypic {
+	width: 101%;
+	margin-left: -1%;
+	/*margin-top: -10%;*/
+	/*z-index: -1;*/
+	position: relative;
+	height: 400px;
+	/*background: url(../img/Spices.jpg) no-repeat;
+    background-size: 100%;*/
+}
+#ourstorypic img {
+	width: 100%;
+	/*position: absolute;*/
+	margin-top: -8%;
+	height: 400px;
+}
+#ourstorypic h1 {
+	color: #ca564e;
+	margin-top: -6%;
+	text-align: center;
+	/*margin-left: 2%;*/
+	font-size: 50px;
+}
+#mainourstory h2 {
+	color: #18496e;
+}
+#mainourstory {
+	margin-top: -5%;
+	padding-bottom: 2%;
+}
+#mainourstory .color {
+	font-size: 1.2em;
+	/*font-style: italic;*/
+}
+
+
+#faqpic {
+	width: 101%;
+	margin-left: -1%;
+	/*margin-top: -10%;*/
+	/*z-index: -1;*/
+	position: relative;
+	/*background: url(../img/Spices.jpg) no-repeat;
+    background-size: 100%;*/
+}
+#faqpic img {
+	width: 100%;
+	/*position: absolute;*/
+	margin-top: -8%;
+	height: 400px;
+}
+#faqpic h1 {
+	color: #18496e;
+	margin-top: -6%;
+	text-align: center;
+	/*margin-left: 2%;*/
+	font-size: 50px;
+}
+#accordion {
+	width: 75%;
+	margin-left: 12.5%;
+	margin-top: 3%;
+	padding-bottom: 2%;
+}
+
+.sideArrow {
+	background-image: url('images/sidearrow45.png') !important;
+	background-size: 100%;
+    width: 40px;
+    height: 40px;
+	display: block;
+	float: left;
+    margin-right: 2%;
+    margin-top: -1%;
+    cursor: pointer;
+}
+.downArrow {
+	background-image: url('images/downarrow45.png') !important;
+	background-size: 100%;
+    width: 40px;
+    height: 40px;
+	display: block;
+	float: left;
+    margin-right: 2%;
+    margin-top: -1%;
+    cursor: pointer;
+}
+#accordion p {
+	width: 90%;
+	margin-left: 8%;
+}
+#accordion img {
+}
+#accordion h3 {
+	color: #18496e;
+	padding-top: 2%;
+	cursor: pointer;
+}
+
+
+#dppic {
+	width: 101%;
+	margin-left: -1%;
+	/*margin-top: -10%;*/
+	/*z-index: -1;*/
+	position: relative;
+	/*background: url(../img/Spices.jpg) no-repeat;
+    background-size: 100%;*/
+}
+#dppic img {
+	width: 100%;
+	/*position: absolute;*/
+	margin-top: -8%;
+	height: 400px;
+}
+#dppic h1 {
+	color: #ca564e;
+	margin-top: -6%;
+	text-align: center;
+	/*margin-left: 2%;*/
+	font-size: 50px;
+}
+#aboutdp {
+	width: 100%;
+	padding-right: 1%;
+	margin-top: -2%;
+	margin-left: -1%;
+	/*background-color: #18496e;*/
+}
+#aboutdp p {
+	width: 80%;
+	margin-left: 11%;
+	padding-top: 5%;
+	padding-bottom: 4%;
+	font-size: 1em;
+	/*color: white;*/
+	font-size: 1.2em;
+}
+
+#howitworks h2 {
+	text-align: center;
+	margin-top: 2%;
+	/*color: #afcd63;*/
+	color: white;
+	/*color: #ca564e;*/
+	padding-bottom: 1%;
+}
+#howitworks {
+	text-align: center;
+	padding-top: 2%;
+	padding-bottom: 4%;
+	background-color: #ca564e;
+	margin-left: -1%;
+}
+#howitworks p {
+	/*color: #ca564e;*/
+	color: white;
+	/*color: #18496e;*/
+}
+
+.triangle {
+    border-right: 12px solid white;
+    border-bottom: 12px solid white;
+    margin-top: -175%;
+    margin-left: 450%;
+    width: 30px; 
+    height: 30px;
+    transform: rotate(-45deg);
+}
+.triangle1 {
+    border-right: 12px solid white;
+    border-bottom: 12px solid white;
+    margin-top: -175%;
+    margin-left: 465%;
+    width: 30px; 
+    height: 30px;
+    transform: rotate(-45deg);
+}
+#logistics img {
+	width: 51%;
+	margin-left: -1%;
+	height: 350px;
+}
+#logistics {
+	margin-bottom: -1.5%;
+}
+#logistics div {
+	float: right;
+	height: 350px;
+	width: 50%;
+	background-color: #afcd63;
+}
+#logistics h3 {
+	padding-top: 5%;
+	color: white;
+	margin-left: 5%;
+	font-size: 1.2em;
+}
+#logistics p {
+	width: 90%;
+	margin-left: 5%;
+	font-size: 1.1em;
+	color: #18496e;
+}
+
+
+#programmingpic {
+	width: 101%;
+	margin-left: -1%;
+	/*margin-top: -10%;*/
+	/*z-index: -1;*/
+	position: relative;
+	/*background: url(../img/Spices.jpg) no-repeat;
+    background-size: 100%;*/
+}
+#programmingpic img {
+	width: 100%;
+	/*position: absolute;*/
+	margin-top: -8%;
+	height: 350px;
+}
+#programmingpic h1 {
+	/*color: white;*/
+	color: #ca564e;
+	margin-top: -6%;
+	text-align: center;
+	/*margin-left: 2%;*/
+	font-size: 50px;
+}
+#programming {
+	padding-top: 2%;
+	padding-bottom: 2%;
+	background-color: #afcd63;
+	margin-left: -1%;
+	margin-top: -2%;
+}
+#programming p {
+	width: 70%;
+	margin-left: 15%;
+	color: white;
+	font-size: 1.3em;
+	animation: type 2s steps(35, end);
+	white-space: nowrap;
+  	overflow: hidden;
+}
+#programming p:nth-child(2){
+  animation: type2 4s steps(35, end);
+}
+@keyframes type{ 
+  from { width: 0; } 
+} 
+
+@keyframes type2{
+  0%{width: 0;}
+  50%{width: 0;}
+  100%{ width: 100; } 
+} 
+
+.blue {
+	color: #18496e;
+}
+
+#explanation img {
+	width: 51%;
+	margin-left: -1%;
+	height: 300px;
+}
+#explanation div {
+	width: 50%;
+	height: 300px;
+	float: right;
+	background-color: #18496e;
+	/*background-color: #afcd63;*/
+	margin-top: 0%;
+}
+#explanation p {
+	width: 70%;
+	margin-left: 15%;
+	margin-top: 6%;
+	color: white;
+	font-size: 1.1em;
+}
+#programs h2 {
+	color: #ca564e;
+	padding-top: 1%;
+}
+.red {
+	color: #ca564e;
+}
+#programs {
+	padding-bottom: 3%;
+}
+.program {
+	height: 150px;
+	line-height: 150px;
+	box-shadow: none;
+	-webkit-transition: all 0.5s ease;
+	transtion: all 0.5s ease;
+	background-color: #F3F3F3;
+	margin-top: 3%;
+	border-radius: 0px;
+	color: #18496e;
+}
+.program span {
+	display: inline-block;
+	vertical-align: middle;
+	line-height: normal; 
+	width: 90%;
+	margin-left: 5%;
+}
+.program:hover {
+	box-shadow: 10px 10px 5px #888888;
+	background-color: #18496e;
+	/*color: #afcd63;*/
+	color: white;
+	border-radius: 10px;
+	/*border: 1px solid #afcd63;*/
+}
+
+
+#teampic, #advisorpic {
+	width: 101%;
+	margin-left: -1%;
+	/*margin-top: -10%;*/
+	/*z-index: -1;*/
+	position: relative;
+	padding-bottom: 2%;
+	/*background: url(../img/Spices.jpg) no-repeat;
+    background-size: 100%;*/
+}
+#teampic img, #advisorpic img {
+	width: 100%;
+	/*position: absolute;*/
+	margin-top: -8%;
+	height: 350px;
+}
+#teampic h1, #advisorpic h1 {
+	/*color: white;*/
+	color: #18496e;
+	margin-top: -6%;
+	text-align: center;
+	/*margin-left: 2%;*/
+	font-size: 40px;
+}
+
+.directors {
+	width: 95%;
+	margin-left: 2.5%;
+}
+.directors li {
+	list-style-type: none;
+	display: inline-block;
+	width: 18%;
+	margin-right: 1%;
+    vertical-align: top;
+}
+.directortext {
+	width: 150px;
+	background-color: #18496e;
+	color: white;
+	/*display: none;*/
+	font-size: .8em;
+	opacity: 0;
+	height: 0;
+	-webkit-transition: all 1s ease;
+	transition: all 1s ease;
+}
+.directortext p {
+	width: 90%;
+	margin-left: 5%;
+	padding-top: 5%;
+	display: none;
+	opacity: 0;
+}
+.directors figcaption {
+    width: 215px;
+    text-align: center;
+    margin-left: -30px;
+    color: #18496e;
+}
+.directors figure {
+	width: 100%;
+}
+.directors figure:hover img {
+	opacity: 0;
+}
+.directors figure img {
+	opacity: 1;
+	-webkit-transition: all 1s ease;
+	transition: all 1s ease;
+}
+.directors figure:hover figcaption {
+	color: #afcd63;
+	margin-top: 3px;
+}
+.directors figure:hover .directortext {
+	display: block;
+	margin-top: -205px;
+	height: 190px;
+	opacity: 1;
+}
+.directors figure:hover .directortext p {
+	display: block;
+	opacity: 1;
+}
+.team {
+	width: 150px;
+}
+
+.label {
+	font-size: 1.2em;
+	color: #ca564e;
+	font-weight: bold;
+	text-align: left;
+	margin-left: 5%;
+	cursor: pointer;
+	margin-bottom: 1%;
+	margin-top: 3%;
+	padding-bottom: 1%;
+}
+
+.green {
+	color: #afcd63;
+}
+.inactive {
+	display: none;
+}
+.big {
+	color: #afcd63;
+}
+#advisorpic h1 {
+/*	color: #ca564e;*/
+	font-size: 35px;
+}
+#advisorpic img {
+	margin-top: 2%;
+}
+
+.others {
+	width: 90%;
+	margin-left: 5%;
+}
+.others li {
+	list-style-type: none;
+	display: inline-block;
+	width: 32%;
+	margin-right: 1%;
+    vertical-align: top;
+}
+.othertext {
+	width: 90%;
+	/*color: white;*/
+	/*display: none;
+	opacity: 0;*/
+	font-size: 0.9em;
+	/*height: 230px;*/
+}
+.othertext p {
+	width: 90%;
+	margin-left: 2%;
+	padding: 3%;
+	-webkit-transition: all 500ms cubic-bezier(0.47, 0, 0.745, 0.715);
+	transition: all 500ms cubic-bezier(0.47, 0, 0.745, 0.715);
+	/*display: none;
+	opacity: 0;*/
+}
+.othername {
+	color: #18496e;
+	cursor: pointer;
+}
+.othername:hover {
+	color: #afcd63;
+}
+
+
+#productpic {
+	width: 101%;
+	margin-left: -1%;
+	/*margin-top: -10%;*/
+	/*z-index: -1;*/
+	position: relative;
+	/*background: url(../img/Spices.jpg) no-repeat;
+    background-size: 100%;*/
+}
+#productpic img {
+	width: 100%;
+	/*position: absolute;*/
+	margin-top: -8%;
+	height: 400px;
+}
+#productpic h1 {
+	color: #ca564e;
+	margin-top: -6%;
+	text-align: center;
+	/*margin-left: 2%;*/
+	font-size: 50px;
+}
+#aboutproducts p, #extraproducts p {
+	width: 70%;
+	margin-left: 15%;
+	font-size: 1.2em;
+}
+#aboutproducts, #extraproducts {
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+#products {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	width: 50%;
+	margin-left: 25%;
+}
+#products li {
+	background: url(../img/shopping122.png) no-repeat left top;
+	height: 32px;
+	padding-left: 40px;
+	padding-top: 8px;
+	padding-bottom: 2%;
+}
+#products .blue {
+	font-size: 1.2em;
+}
+
+#products {
+	animation: type 2s steps(35, end);
+	white-space: nowrap;
+  	overflow: hidden;
+}
+.type:nth-child(2){
+  animation: type2 4s steps(35, end);
+}
+@keyframes type{ 
+  from { width: 0; } 
+} 
+
+@keyframes type2{
+  0%{width: 0;}
+  50%{width: 0;}
+  100%{ width: 100; } 
+} 
+
+#communitypic {
+	width: 101%;
+	margin-left: -1%;
+	/*margin-top: -10%;*/
+	/*z-index: -1;*/
+	position: relative;
+	/*background: url(../img/Spices.jpg) no-repeat;
+    background-size: 100%;*/
+}
+#communitypic img {
+	width: 100%;
+	/*position: absolute;*/
+	margin-top: -8%;
+	height: 400px;
+}
+#communitypic h1 {
+	color: #ca564e;
+	/*color: white;*/
+	/*color: #18496e;*/
+	margin-top: -6%;
+	text-align: center;
+	/*margin-left: 2%;*/
+	font-size: 50px;
+}
+
+#whatweoffer {
+	/*background-color: #18496e;*/
+	background-color: #afcd63;
+	padding-right: 1%;
+	margin-left: -1%;
+	margin-top: -2%;
+}
+#whatweoffer p {
+	font-size: 1.4em;
+	padding: 3%;
+	/*color: #afcd63;*/
+	color: white;
+	/*color: #ca564e;*/
+	width: 70%;
+	margin-left: 15%;
+}
+.white {
+	color: white;
+}
+#partnerships h2 {
+	color: #18496e;
+	text-align: center;
+	padding-top: 1%;
+}
+#partnerships img {
+	width: 1.5%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+#partnerships {
+	font-size: 1.2em;
+	padding-bottom: 2%;
+}
+.line {
+	text-align: center;
+}
+#events h2 {
+	color: #18496e;
+	/*color: white;*/
+	text-align: center;
+	padding: 1%;
+}
+.colorbackground {
+	width: 101%;
+	margin-left: -1%;
+	/*background-color: #18496e;*/
+}
+#events p {
+	text-align: center;
+	color: #ca564e;
+	font-weight: bold;
+}
+#events {
+	padding-bottom: 5%;
+}
+
+
+#contactpic {
+	width: 101%;
+	margin-left: -1%;
+	/*margin-top: -10%;*/
+	/*z-index: -1;*/
+	position: relative;
+	/*background: url(../img/Spices.jpg) no-repeat;
+    background-size: 100%;*/
+}
+#contactpic img {
+	width: 100%;
+	/*position: absolute;*/
+	margin-top: -8%;
+	height: 400px;
+}
+#contactpic h1 {
+	color: #ca564e;
+	/*color: white;*/
+	/*color: #18496e;*/
+	/*color: #afcd63;*/
+	margin-top: -6%;
+	text-align: center;
+	/*margin-left: 2%;*/
+	font-size: 50px;
+}
+#contactlabel h2 {
+	text-align: center;
+	color: #18496e;
+}
+#contact a:link {
+	color: #ca564e;
+	text-decoration: none;
+}
+.notnav a {
+	color: #ca564e;
+}
+#contact a:hover {
+	color: #afcd63;
+}
+.bold {
+	font-weight: bold;
+}
+/*#contactlabel {
+	padding-top: 0%;
+	width: 100%;
+}*/
+#contact {
+	width: 31%;
+    margin-left: 34.5%;
+    padding-bottom: 3%;
+    padding-top: 1%;
+}
+
+#resources img {
+	width: 51%;
+	margin-left: -1%;
+}
+#innerresources {
+	width: 50%;
+	background-color: #afcd63;
+	float: right;
+	height: 435px;
+}
+#innerresources h2 {
+	padding-left: 2%;
+	color: #18496e;
+}
+#innerresources p {
+	padding: 2%;
+	width: 80%;
+	margin-left: 3%;
+}
+#innerresources ul {
+	margin-left: 5%;
+}
+#innerresources li {
+	padding-bottom: 1%;
+}
+#research {
+	padding-bottom: 1%;
+	padding-top: 1%;
+}
+#research h2 {
+	text-align: center;
+	color: #18496e;
+}
+#tagline {
+	text-align: center;
+	color: #18496e;
+	display: none;
+}
+#info, #otheruniversity, #researchlinks {
+	width: 60%;
+	margin-left: 22%;
+}
+.footnote {
+	font-style: italic;
+	font-size: 0.8em;
+}
+#research a:hover {
+	color: #afcd63;
+}
+#research h4 {
+	margin-left: 20%;
+}
+#research a {
+	text-decoration: none;
+}
+
+.comingsoon {
+	width: 60%;
+	margin-left: 20%;
+	font-size: 1.1em;
+	color: #18496e;
+	text-align: center;
+	padding-top: 2%;
+	color: #ca564e;
+}
+.comingsoon a {
+	text-decoration: none;
+	color: #afcd63;
+}
+.comingsoon a:hover {
+	color: #18496e;
+}
+
+
+#donatepic {
+	width: 101%;
+	margin-left: -1%;
+	/*margin-top: -10%;*/
+	/*z-index: -1;*/
+	position: relative;
+	/*background: url(../img/Spices.jpg) no-repeat;
+    background-size: 100%;*/
+}
+#donatepic img {
+	width: 100%;
+	/*position: absolute;*/
+	margin-top: -8%;
+	height: 400px;
+}
+#donatepic h1 {
+	/*color: #ca564e;*/
+	/*color: white;*/
+	color: #18496e;
+	/*color: #afcd63;*/
+	margin-top: -6%;
+	text-align: center;
+	/*margin-left: 2%;*/
+	font-size: 50px;
+}
+#cta {
+	width: 60%;
+	margin-left: 20%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+#cta a {
+	text-decoration: none;
+}
+#cta a:hover {
+	color: #afcd63;
+}
