@@ -5,7 +5,7 @@
 	<h1 id="f">Products We Sell</h1>
 </div>
 
-<div id="aboutproducts"><p>Anabel’s Grocery places an emphasis on low cost staples and a smaller variety of good quality core products with the goal of offering “the first 30 items you’d buy if your fridge and pantry were completely empty”. Some examples of products include the following:</p></div>
+<div id="aboutproducts"><p>Anabel's Grocery places an emphasis on low cost staples and a smaller variety of good quality core products with the goal of offering "the first 30 items you'd buy if your fridge and pantry were completely empty". Some examples of products include the following:</p></div>
 
 <ul id="products">
 	<li><span class="blue">Dry Goods:  </span><span class="type">beans, pasta, grains, bread, nuts</span></li>

@@ -11,13 +11,13 @@
 
 <div id="explanation">
 	<img src="img/Walnuts.jpg" alt="walnuts">
-	<div><p class="fadeInBlock">In the United States, poor dietary patterns are a significant factor in the three leading causes of death. In order to improve dietary health, <span class="red">increasing access</span> to nutritious foods is only the first step. Additionally, learning how to <span class="red">cook with fresh foods</span> is the only way to ensure the incorporation of these more environmentally and socially sustainable food habits into <span class="red">lifelong behavioral patterns</span>. Without knowing how to transform ingredients into meals, students’ relationship with food will not change.</p></div>
+	<div><p class="fadeInBlock">In the United States, poor dietary patterns are a significant factor in the three leading causes of death. In order to improve dietary health, <span class="red">increasing access</span> to nutritious foods is only the first step. Additionally, learning how to <span class="red">cook with fresh foods</span> is the only way to ensure the incorporation of these more environmentally and socially sustainable food habits into <span class="red">lifelong behavioral patterns</span>. Without knowing how to transform ingredients into meals, students' relationship with food will not change.</p></div>
 </div>
 
 <div id="programs" class="container_12">
 	<h2 class="grid_12">Nutritional Program Offerings</h2>
 	<div class="empty clear">"</div>
-	<div class="grid_4 program"><span>General and Themed cooking lessons that provide basic skills, cooking in college, vegetarian, vegan, gluten free, omnivorous, “20 minute meals”, and different ethnic foods</span></div>
+	<div class="grid_4 program"><span>General and Themed cooking lessons that provide basic skills, cooking in college, vegetarian, vegan, gluten free, omnivorous, "20 minute meals", and different ethnic foods</span></div>
 	<div class="grid_4 program"><span>Nutritional education through partnerships with CU Dietetics Association, HealthNuts, Cornell Minds Matter Healthy and Disordered Eating Series, and classes that require nutrition counseling</span></div>
 	<div class="grid_4 program"><span>Bring in sustainable local providers to talk about their agricultural methods in order to strengthen community-campus ties and understand the food in context</span></div>
 	<div class="empty clear">"</div>

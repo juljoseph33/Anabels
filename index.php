@@ -23,7 +23,7 @@
 
 <div id="nav" class="container_12">
 	<ul>
-		<li id="picturelink" class="grid_2"><a href="index.php"><img alt="logo" id="headerpic" src="img/logosmall.png"></a></li>
+		<li id="picturelink" class="grid_2"><a href="index.php"><img alt="logo" id="headerpic" src="img/ANABELSSPROUT.png"></a></li>
 		<li class="grid_3 empty">"</li>
 		<li class="grid_2"><a href="#">About Us</a>
 			<ul>
@@ -75,16 +75,8 @@
 		<div class="grid_4">
 			<div class="empty grid_1">"</div>
 			<div class="grid_2">
-				<img alt="books" src="img/books8.png">
-				<p>Education</p>
-			</div>
-			<div class="empty grid_1">"</div>
-		</div>
-		<div class="grid_4">
-			<div class="empty grid_1">"</div>
-			<div class="grid_2">
-				<img alt="lock" src="img/block32.png">
-				<p>Accessability<br>Affordability</p>
+				<img alt="books" src="img/money213.png">
+				<p>Affordable</p>
 			</div>
 			<div class="empty grid_1">"</div>
 		</div>
@@ -92,7 +84,15 @@
 			<div class="empty grid_1">"</div>
 			<div class="grid_2">
 				<img alt="apple" src="img/apple54.png">
-				<p>Taste</p>
+				<p>Healthy</p>
+			</div>
+			<div class="empty grid_1">"</div>
+		</div>
+		<div class="grid_4">
+			<div class="empty grid_1">"</div>
+			<div class="grid_2">
+				<img alt="lock" src="img/block32.png">
+				<p>Accessible</p>
 			</div>
 			<div class="empty grid_1">"</div>	
 		</div>	
@@ -100,7 +100,7 @@
 </div>
 
 <div id="statement">
-<p><span class="emphasis">ANABEL’S GROCERY</span> believes that cooking is a <span class="emphasis">life skill</span>. We offer classes designed to teach novice cooks how to <span class="emphasis">eat healthy</span> and develop lifelong skills. Our grocery store is <span class="emphasis">for everyone</span>.  We strive to meet the needs of individuals from <span class="emphasis">all financial backgrounds</span> to ensure everyone has <span class="emphasis">access</span> to nutritional food.</p>
+<p><span class="emphasis">ANABEL'S GROCERY</span> believes that cooking is a <span class="emphasis">life skill</span>. We offer classes designed to teach novice cooks how to <span class="emphasis">eat healthy</span> and develop lifelong skills. Our grocery store is <span class="emphasis">for everyone</span>.  We strive to meet the needs of individuals from <span class="emphasis">all financial backgrounds</span> to ensure everyone has <span class="emphasis">access</span> to nutritional food.</p>
 </div>
 
 

@@ -5,7 +5,7 @@
 	<h1 id="f">Community Engagement</h1>
 </div>
 
-<div id="whatweoffer"><p>Anabel’s Grocery offers <span class="red">meal planning, cooking lessons, and pot and pan rentals</span> aimed at showing students how they can use produce and raw goods to make meals on their own. By connecting with <span class="red">local farmers and vendors</span>, we hope to reconnect students to the food they eat and increase our ties with the local economy.</p></div>
+<div id="whatweoffer"><p>Anabel's Grocery offers <span class="red">meal planning, cooking lessons, and pot and pan rentals</span> aimed at showing students how they can use produce and raw goods to make meals on their own. By connecting with <span class="red">local farmers and vendors</span>, we hope to reconnect students to the food they eat and increase our ties with the local economy.</p></div>
 
 <div id="partnerships">
 	<h2>Strategic Partnerships</h2>
@@ -24,7 +24,7 @@
 		<img src="img/filled13.png" alt="dot">
 		Cornell Cooperative Extension
 		<img src="img/filled13.png" alt="dot">
-		Manndible Café
+		Manndible Cafe
 	</div>
 </div>
 

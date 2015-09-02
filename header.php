@@ -22,7 +22,7 @@
 
 <div id="nav" class="container_12">
 	<ul>
-		<li id="picturelink" class="grid_2"><a href="index.php"><img id="nonindexheaderpic" src="img/logo.png"></a></li>
+		<li id="picturelink" class="grid_2"><a href="index.php"><img id="nonindexheaderpic" src="img/ANABELSLOGO.png"></a></li>
 		<li class="grid_3 empty">"</li>
 		<li class="grid_2"><a href="#">About Us</a>
 			<ul>

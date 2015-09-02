@@ -6,7 +6,7 @@
 </div>
 
 <div id="aboutdp">
-	<p>In order to make healthy food affordable for all students, we have decided to implement a <span class="color">subsidized discount system</span>. Undergraduate students will be able to <span class="color">apply</span> for a free discount online by filling out a short survey assessing their ability to afford meals, then the Directors of the store will issue subsidies <span class="color">based on need and available funds</span>. Our goal is to make the process as <span class="color">user-friendly</span> and <span class="color">anonymous</span> as possible to make it easy for students with need to apply and use discounts at our store.</p>
+	<p>In order to make healthy food affordable for all students, we have decided to implement a <span class="color">subsidized discount system</span>. Undergraduate students will be able to <span class="color">apply</span> for a free discount online by filling out a short survey (available soon!) assessing their ability to afford meals, then the Directors of the store will issue subsidies <span class="color">based on need and available funds</span>. Our goal is to make the process as <span class="color">user-friendly</span> and <span class="color">anonymous</span> as possible to make it easy for students with need to apply and use discounts at our store.</p>
 </div>
 
 <div id="howitworks">

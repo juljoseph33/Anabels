@@ -6,7 +6,8 @@
 </div>
 
 <div id="cta">
-	Anabel's Grocery is a project of the <span class="notnav"><a href="http://www.centerfortransformativeaction.org/">Center for Transformative Action</a></span>, a 501(c)3 nonprofit organization, which accepts all funds on our behalf. Please makes checks out to the CENTER FOR TRANSFORMATIVE ACTION, with "Anabel's Grocery" in the memo line.
+	Anabel's Grocery is a project of the <span class="notnav"><a href="http://www.centerfortransformativeaction.org/">Center for Transformative Action</a></span>, a 501(c)3 nonprofit organization, which accepts all funds on our behalf. Please makes checks out to the CENTER FOR TRANSFORMATIVE ACTION, with "Anabel's Grocery" in the memo line.<br><br>
+	The link to the CTA's donation page is: <span class="notnav"><a href="http://centerfortransformativeaction.org/donate">http://centerfortransformativeaction.org/donate</a></span>.
 </div>
 
 <?php include('footer.php'); ?>
