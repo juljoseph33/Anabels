@@ -38,6 +38,7 @@
 			<div class="empty grid_1">"</div>	
 		</div>	
 	</div>
+	<div class="attribution"><div>Icon made by <a href="http://www.alessioatzeni.com" title="Alessio Atzeni">Alessio Atzeni</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div></div>
 </div>
 
 <div id="logistics">

@@ -15,6 +15,12 @@
 	<li><span class="blue">Frozen Items:  </span><span class="type">meats and vegetables (chicken, beef, green beans, and broccoli)</span></li>
 </ul>
 
+<div class="attribution">
+	<div>
+		Icons made by <a href="http://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>             is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>
+	</div>
+</div>
+
 <div id="extraproducts"><p class="fadeInBlock" >Items from vendors in the community include coffee, honey, and jams. Items from student groups include Worthy Jerky, Bread Club bread, Scratchin' Batches granola, and more!</p><p class="fadeInBlock" >If space allows, we will stock items such as reusable grocery bags, locally made soaps/shampoos/lip balms, reusable water bottles and coffee mugs, and hygiene products and kitchen cleaning supplies.</p></div>
 
 <?php include('footer.php'); ?>

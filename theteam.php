@@ -9,32 +9,32 @@
 	<ul class="directors teamone">
 		<li>
 			<figure>
-				<img class="team" src="img/theteam/LaurelMoffat.jpg" alt="defaultpic">
-				<span class="directortext"><p><span class="green">School:</span><br>CALS<br>
-				<span class="green">Major/Minor:</span><br>Nutrition<br>
-				<span class="green">Email:</span><br>lfm53@cornell.edu<br>
-				<span class="green">Favorite Food:</span><br>Anything and everything</p></span>
-				<figcaption>Laurel Moffat, '16 | Co-Director</figcaption>
-			</figure>
-		</li>
-		<li>
-			<figure>
-				<img class="team" src="img/theteam/RobertHendricks.jpg" alt="defaultpic">
-				<span class="directortext"><p><span class="green">School:</span><br>Arts and Sciences<br>
-				<span class="green">Major/Minor:</span><br>Government / Law and Society, Inequality Studies<br>
-				<span class="green">Email:</span><br>rhh229@cornell.edu<br>
-				<span class="green">Favorite Food:</span><br>Stouffer's Lasagna</p></span>
-				<figcaption>Robert Hendricks, '17 | Co-Director</figcaption>
-			</figure>
-		</li>
-		<li>
-			<figure>
 				<img class="team" src="img/theteam/EmmaJohnston.jpg" alt="defaultpic">
 				<span class="directortext"><p><span class="green">School:</span><br>Arts and Sciences<br>
 				<span class="green">Major/Minor:</span><br>Government / Natural Resources<br>
 				<span class="green">Email:</span><br>elj49@cornell.edu<br>
 				<span class="green">Favorite Food:</span><br>Cioppino and sourdough</p></span>
 				<figcaption>Emma Johnston, '16 | Co-Founder</figcaption>
+			</figure>
+		</li>
+		<li>
+			<figure>
+				<img class="team" src="img/theteam/JoshMiller.jpg" alt="defaultpic">
+				<span class="directortext"><p><span class="green">School:</span><br>Human Ecology<br>
+				<span class="green">Major/Minor:</span><br>HBHS / Global Health, Health Policy<br>
+				<span class="green">Email:</span><br>jdm437@cornell.edu<br>
+				<span class="green">Favorite Food:</span><br>Indian food</p></span>
+				<figcaption>Joshua Miller, '17 | Director of Personnel</figcaption>
+			</figure>
+		</li>
+		<li>
+			<figure>
+				<img class="team" src="img/theteam/LaurelMoffat.jpg" alt="defaultpic">
+				<span class="directortext"><p><span class="green">School:</span><br>CALS<br>
+				<span class="green">Major/Minor:</span><br>Nutrition<br>
+				<span class="green">Email:</span><br>lfm53@cornell.edu<br>
+				<span class="green">Favorite Food:</span><br>Anything and everything</p></span>
+				<figcaption>Laurel Moffat, '16 | Co-Director</figcaption>
 			</figure>
 		</li>
 		<li>
@@ -49,12 +49,12 @@
 		</li>
 		<li>
 			<figure>
-				<img class="team" src="img/theteam/JoshMiller.jpg" alt="defaultpic">
-				<span class="directortext"><p><span class="green">School:</span><br>Human Ecology<br>
-				<span class="green">Major/Minor:</span><br>HBHS / Global Health, Health Policy<br>
-				<span class="green">Email:</span><br>jdm437@cornell.edu<br>
-				<span class="green">Favorite Food:</span><br>Indian food</p></span>
-				<figcaption>Joshua Miller, '17 | Director of Personnel</figcaption>
+				<img class="team" src="img/theteam/RobertHendricks.jpg" alt="defaultpic">
+				<span class="directortext"><p><span class="green">School:</span><br>Arts and Sciences<br>
+				<span class="green">Major/Minor:</span><br>Government / Law and Society, Inequality Studies<br>
+				<span class="green">Email:</span><br>rhh229@cornell.edu<br>
+				<span class="green">Favorite Food:</span><br>Stouffer's Lasagna</p></span>
+				<figcaption>Robert Hendricks, '17 | Co-Director</figcaption>
 			</figure>
 		</li>
 	</ul>
@@ -188,7 +188,7 @@
 		<li>
 			<figure>
 				<img class="team" src="img/network54.png" alt="defaultpic">
-				<span class="directortext"><p><span class="green">School:</span><br><br>
+				<span class="directortext"><p><span class="green">School:</span><br>CALS<br>
 				<span class="green">Major/Minor:</span><br>International Ag / DSOC<br>
 				<span class="green">Email:</span><br>eva22@cornell.edu<br>
 				<span class="green">Favorite Food:</span><br></p></span>

@@ -5,6 +5,7 @@
 	<title>Anabel's Grocery</title>
 	<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
 	<link rel="stylesheet" type="text/css" href="css/960_12_col.css" />
+	<link href="img/ANABELSSPROUTINVERSE.png" rel="icon" type="image/png" />
 	<!-- <link rel="stylesheet" type="text/css" href="css/jquery-ui.theme.min.css" /> -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<!-- <link rel="icon" type="image/x-icon" href="img/favicon.png" /> -->

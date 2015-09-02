@@ -16,4 +16,10 @@
 	<div><p>The subsidies will be funded from a donation fund that is entirely separate from store operations. This money will reimburse any revenue lost due to customers using discounts so that the store does not experience any loss.</p></div>
 </div>
 
+<div class="attribution">
+	<div>
+		Icons made by <a href="http://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>             is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>
+	</div>
+</div>
+
 <?php include('footer.php'); ?>

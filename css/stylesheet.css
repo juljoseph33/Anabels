@@ -1025,3 +1025,7 @@ red: ca564e*/
 #cta a:hover {
 	color: #85a63e;
 }
+
+.attribution {
+	display: none;
+}
