@@ -29,6 +29,7 @@
 			<ul>
 				<li><a href="ourstory.php">Our Story</a></li>
 				<li><a href="theteam.php">The Team</a></li>
+				<li><a href="thestore.php">The Store</a></li>
 				<li><a href="faq.php">FAQ</a></li>
 			</ul>
 		</li>

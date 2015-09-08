@@ -1029,3 +1029,36 @@ red: ca564e*/
 .attribution {
 	display: none;
 }
+
+
+#thestorepic {
+	width: 101%;
+	margin-left: -1%;
+	/*margin-top: -10%;*/
+	/*z-index: -1;*/
+	position: relative;
+	/*background: url(../img/Spices.jpg) no-repeat;
+    background-size: 100%;*/
+}
+#thestorepic img {
+	width: 100%;
+	/*position: absolute;*/
+	margin-top: -8%;
+	height: 400px;
+}
+#thestorepic h1 {
+	color: #ca564e;
+	/*color: white;*/
+	/*color: #1c5f93;*/
+	/*color: #afcd63;*/
+	margin-top: -6%;
+	text-align: center;
+	/*margin-left: 2%;*/
+	font-size: 50px;
+}
+#storeinfo {
+	width: 70%;
+	margin-left: 15%;
+	font-size: 1.2em;
+	padding: 2%;
+}
